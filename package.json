@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/brunoStaroski/sticker-bot-whatsapp#readme",
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "async": "^3.2.3",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
     "venom-bot": "^4.0.6"
   },
   "devDependencies": {
